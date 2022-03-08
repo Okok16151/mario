@@ -113,8 +113,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				15,
-				18
+				44,
+				69
 			],
 			"anim": "hurt",
 			"fps": 24,
@@ -136,7 +136,7 @@
 			"loop": false,
 			"offsets": [
 				37,
-				11
+				62
 			],
 			"anim": "firstDeath",
 			"fps": 24,
@@ -147,7 +147,7 @@
 			"loop": true,
 			"offsets": [
 				37,
-				5
+				-3
 			],
 			"anim": "deathLoop",
 			"fps": 24,
@@ -158,7 +158,7 @@
 			"loop": false,
 			"offsets": [
 				37,
-				69
+				16
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
@@ -168,8 +168,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-10,
-				-16
+				40,
+				263
 			],
 			"anim": "dodge",
 			"fps": 24,
@@ -179,8 +179,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				294,
-				267
+				-5,
+				0
 			],
 			"anim": "attack",
 			"fps": 24,
@@ -190,8 +190,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-40,
-				-40
+				-5,
+				0
 			],
 			"anim": "pre-attack",
 			"fps": 24,
@@ -202,7 +202,7 @@
 	"no_antialiasing": false,
 	"image": "characters/BOYFRIEND",
 	"position": [
-		0,
+		-150,
 		350
 	],
 	"healthicon": "bf",
@@ -213,7 +213,7 @@
 		209
 	],
 	"camera_position": [
-		0,
+		230,
 		0
 	],
 	"sing_duration": 4,
